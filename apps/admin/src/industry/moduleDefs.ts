@@ -59,6 +59,7 @@ export const INDUSTRY_MODULES: Record<IndustryKey, ModuleDef[]> = {
     { id: 'product-promotion', label: 'Product Promotion Management', icon: '📣' },
     { id: 'hospital-engagement', label: 'Hospital Engagement Management', icon: '⚕' },
     { id: 'medicine-return', label: 'Medicine Return Management', icon: '↩' },
+    { id: 'refunds', label: 'Customer Refunds', icon: '₹' },
     { id: 'recall', label: 'Recall Management', icon: '⚠' },
   ],
  // Sales Orders, Stock/Inventory, Collections and Reports are intentionally
